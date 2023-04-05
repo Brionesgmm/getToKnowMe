@@ -1,13 +1,10 @@
 import React from "react";
+import headshot from "/images/johnnyPhoto.jpg";
 
 const InfoLinks = () => {
   return (
     <section className="bioLinks">
-      <img
-        className="bioPic"
-        src="./public/images/johnnyPhoto.jpg"
-        alt="Johnny Briones"
-      />
+      <img className="bioPic" src={headshot} alt="Johnny Briones" />
       <h1 className="name">Johnny Briones</h1>
       <h2 className="description">
         Frontend Developer, Game Developer, Memory Champion, Grandmaster of
