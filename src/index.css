@@ -73,6 +73,7 @@ main {
 
 .interest li {
   font-size: 13px;
+  padding-right: 1rem;
 }
 
 .interest a {
