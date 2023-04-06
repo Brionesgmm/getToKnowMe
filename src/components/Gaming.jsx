@@ -12,7 +12,7 @@ const Gaming = () => {
           </a>
         </li>
         <li>
-          Created a game for my duaghter:&nbsp;
+          Created a game for my daughter:&nbsp;
           <a
             href="https://chocolatemilklife.itch.io/cat-adventures"
             target="_blank"
